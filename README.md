@@ -2,7 +2,7 @@
 
 1. Prendre un gif
 
-![sonic](https://im2.ezgif.com/tmp/ezgif-2-8bbd83a4207a.gif)
+![sonic](https://static.wikia.nocookie.net/the-ancient-ones/images/3/38/Sonic.gif/revision/latest?cb=20160313165427)
 
 2.Selectionner un des calques du gif sur photoshop
 
