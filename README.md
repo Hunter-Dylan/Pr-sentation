@@ -6,24 +6,24 @@
 
 2.Selectionner un des calques du gif sur photoshop
 
-![photoshop](https://cdn.discordapp.com/attachments/826250436063133707/908547682547662898/Photoshop.jpg)
+![image 2](https://raw.githubusercontent.com/Hunter-Dylan/Pr-sentation/main/media/image%202.png)
 
 3.Modifier le calque comme vous-voulez
 
-![Edit](https://cdn.discordapp.com/attachments/826250436063133707/908558679333285938/edit.jpg)
+![image 3](https://raw.githubusercontent.com/Hunter-Dylan/Pr-sentation/main/media/image%203.png)
 
 4.Aller dans le montage
-![montage](https://cdn.discordapp.com/attachments/826250436063133707/908559164178063430/montage.jpg)
+![image 4](https://raw.githubusercontent.com/Hunter-Dylan/Pr-sentation/main/media/image%204.png)
 
 5.Modifier les frames
-![montage changement](https://cdn.discordapp.com/attachments/826250436063133707/908562106541039616/frame.jpg)
+![image 5](https://raw.githubusercontent.com/Hunter-Dylan/Pr-sentation/main/media/image%205.png)
 
 6.Aller dans exportation et enregistrer dans web
-![exportation](https://cdn.discordapp.com/attachments/826250436063133707/908557336451350588/exportation.jpg)
+![image 6](https://raw.githubusercontent.com/Hunter-Dylan/Pr-sentation/main/media/image%206.png)
 
 7. Sélectioner l'option Gif 128 tramé
-![trame](https://cdn.discordapp.com/attachments/826250436063133707/908560772597178408/Trame.jpg)
+![image 7](https://raw.githubusercontent.com/Hunter-Dylan/Pr-sentation/main/media/image%207.png)
 
 8. Admiré
 
-![finale](https://cdn.discordapp.com/attachments/826250436063133707/908558418577608704/finish.gif)
+![Sonic-complete.gif](https://raw.githubusercontent.com/Hunter-Dylan/Pr-sentation/main/media/Sonic-complete.gif)
