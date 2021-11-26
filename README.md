@@ -1,4 +1,4 @@
-**Modifier un gif sur photoshop**
+# Modifier un gif sur photoshop
 
 1. Prendre un gif
 
